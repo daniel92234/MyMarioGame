@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": true,
-  "parent": {
-    "name": "background",
-    "path": "folders/Scripts/compatibility/background.yy",
+  "$GMScript":"v1",
+  "%Name":"background_delete",
+  "isCompatibility":true,
+  "isDnD":false,
+  "name":"background_delete",
+  "parent":{
+    "name":"background",
+    "path":"folders/Scripts/compatibility/background.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "background_delete",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

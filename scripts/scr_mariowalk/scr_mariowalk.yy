@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Mario",
-    "path": "folders/Scripts/Mario.yy",
+  "$GMScript":"v1",
+  "%Name":"scr_mariowalk",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_mariowalk",
+  "parent":{
+    "name":"Mario",
+    "path":"folders/Scripts/Mario.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "scr_mariowalk",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }
