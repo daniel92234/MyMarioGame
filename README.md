@@ -1,1 +1,1 @@
-Forked Mario project for the new GameMaker Studio
+Forked Mario project for latest GameMaker Studio
